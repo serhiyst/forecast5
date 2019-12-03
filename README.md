@@ -13,3 +13,5 @@
 - index.html - resources/views/forecast.blade.php
 - main.js - public/js/ajax.js
 - style.css - стили поключены по ссылке
+
+Дамп бд в корневой папке (forecasts.sql)
