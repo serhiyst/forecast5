@@ -12,8 +12,12 @@
   <body>
    	<div class="container">
    	  <div class="col-md-4 mb-3">
-        <input type="text" class="form-control" id="search" name="search" placeholder="What is your city?">
-        <button class="btn btn-primary" id="123">Search</button> 
+   	  	<div class="input-group">
+          <input type="text" class="form-control" id="search" name="search" placeholder="What is your city?">
+          <span class="input-group-btn">
+        	<button class="btn btn-primary" id="123">Search</button> 
+    	  </span>
+    	<div class="input-group">
       </div>
       <div class ="table" id="forecast">
       </div>
